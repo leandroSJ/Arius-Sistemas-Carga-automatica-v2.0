@@ -1,0 +1,38 @@
+#link do arius.exe
+erp_arius: C:\gestao\arius.exe
+
+#usuario erp
+login_erp: "LEANDRO"
+senha_erp: "2580"
+# link img cadastro de produtos
+cadastro_de_produtos: C:\arius_play\arius_carga\loja\img\erp\cadastro-produtos.PNG
+                      
+#link para abrir kw
+kw: C:\Users\FABIO\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\apps do Chrome\KW.lnk #Altere esse link 
+
+#usuario kw
+login: "59"
+senha: "2580"
+
+#processos
+processos: C:\arius_play\arius_carga\loja\img\kw\processos.PNG
+
+#importação do erp
+importacao: C:\arius_play\arius_carga\loja\img\kw\importacao.PNG
+
+#importar
+importar: C:\arius_play\arius_carga\loja\img\kw\importar.PNG
+
+#gerar tabelas no pdv
+gerar_tabelas: C:\arius_play\arius_carga\loja\img\kw\gerar-tabelas.PNG
+
+#marque todas as tabelas
+todos: C:\arius_play\arius_carga\loja\img\kw\todos.PNG
+
+#gerar tabelas no pdv
+gerar: C:\arius_play\arius_carga\loja\img\kw\gerar.PNG
+
+#logs
+log_carga: C:\arius_play\arius_carga\loja\src\log.txt
+
+agenda_carga: C:\arius_play\arius_carga\loja\src\carga_loja.py

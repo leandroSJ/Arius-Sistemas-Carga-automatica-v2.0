@@ -1,0 +1,10 @@
+# o horário padrão da carga é 05:00 da manhã 
+# após alterar o horário padrao salve o arquivo e execute o programa ag_carga_empresa
+# para iniciar a agenda se quiser ter certeza que esta funcionando abra o 
+# gerenciador de tarefas ctrl+shift+Esc e veja se está execuntando em segundo plano
+
+# Hora da carga
+agenda_carga: "06:00"
+
+#local do programa da carga
+arius_carga_loja: C:\arius_carga\empresa\src\dist\carga_empresa1.exe #insira o link do executavel na pasta \emresa\src\dist\
