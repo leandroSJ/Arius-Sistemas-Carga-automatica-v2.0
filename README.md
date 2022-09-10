@@ -26,7 +26,7 @@ Automação de sistemas - Arius Sistemas | Carga e importação de tabelas para 
 
 ## 💻 Pré-instalação
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Se for compilar novamente faça isso:
+* Siga esse passo a passo:
 
 * mova a pasta `arius_carga` para a o disco C:\\
 * Instale a versão mais recente do `Python` se você não tem instalado em https://www.python.org/
