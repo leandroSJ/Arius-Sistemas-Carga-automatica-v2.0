@@ -29,9 +29,9 @@ Automação de sistemas - Arius Sistemas | Carga e importação de tabelas para 
 * Siga esse passo a passo:
 
 * mova a pasta `arius_carga` para a o disco C:\\
-* Instale a versão mais recente do `Python` se você não tem instalado em https://www.python.org/
+* Instale a versão mais recente do `Python`  se você não tem instalado instale em https://www.python.org/
 * Pressione Win+R vai abrir uma caixinha com nome de Executar digite `cmd`e presione enter para abrir o cmd
-* Ou se preferir abra o menu de aplicativos do windowns e digiete cmd e abra o programa
+* Ou se preferir abra o menu de aplicativos do windows e digiete cmd e abra o programa
 * Agora volte para o disco digite `cd c:\` e presione enter
 * Entre na pasta arius_carga `cd arius_carga`
 * Atualize o pip `python -m pip install --upgrade pip`
@@ -41,7 +41,7 @@ Automação de sistemas - Arius Sistemas | Carga e importação de tabelas para 
 * Se ficou assim tudo certo `(amb_virtual) c:\arius_carga>`
 * Agora basta navegar até a pasta `cd loja\src`
 > Agora você está dentro da pasta onde estao os arquivos `carga_loja.py | log.txt | requirements.txt`
-lembre-se de alerar o usuário e a senha no arquivo de configuração `config.yaml` após fazer a alteração salve o arquivo
+lembre-se de alterar o usuário e a senha no arquivo de configuração `config.yaml` use o bloco de notas para abrir o arquivo e após fazer a alteração salve o arquivo.
 
 
 ## 🚀 Instalando Arius-Sistemas-Carga-automatica-v2.0
